@@ -1,2 +1,2 @@
 # minitalk
-My 42 minitalk
+my 42 minitalk

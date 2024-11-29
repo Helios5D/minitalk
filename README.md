@@ -3,7 +3,7 @@
 ## Description
 
 Minitalk is a project from 42 School that focuses on interprocess communication using Unix signals (SIGUSR1 and SIGUSR2). The goal is to create a simple communication system between two processes: a client and a server. The client sends a message to the server, which then processes and displays it.
-Installation
+## Installation
 
 Clone this repository:
 ```
